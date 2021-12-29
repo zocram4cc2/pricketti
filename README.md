@@ -6,7 +6,7 @@ Pricketti is the gameplay patch developed for the [/vg/League](https://implyingr
 **Current patch notes:**
 - Zeroed a bunch of wait times and animation delays
 - Disabled all slow downs
-- Enabled all (subConcepts)[https://implyingrigged.info/wiki/User:MarcoZ/dt18_Files_Breakdown#Team]
+- Enabled all [subConcepts](https://implyingrigged.info/wiki/User:MarcoZ/dt18_Files_Breakdown#Team)
 - Tweaked the GK to rush out and punch slightly more rather than catch
 - Spiked up first time chances (headers, volleys, etc.)
 - Enhanced AI vision on long\wide chances for better wing play (both on the ground and in the air)
