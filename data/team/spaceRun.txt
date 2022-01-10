@@ -2,11 +2,11 @@
 110.0 	//angleDiff_chance_good
 60.0 	//angleDiff_second
 90.0 	//angleDiff_second_good
-1			//backwardCurve
-100	87	//chanceScore
-85	80	//chanceScore_good
-30.0	34.0	//checkAngleWidthSector
-50.0	54.0	//checkAngleWidthSector_good
+1		//backwardCurve
+100		101 	//chanceScore
+85		87  	//chanceScore_good
+30.0	//checkAngleWidthSector
+50.0	//checkAngleWidthSector_good
 2		//checkAreaNum
 4		//checkAreaNum_good
 12.0	//checkBackDist_second
@@ -18,17 +18,17 @@
 25.0	//checkBallDist_second
 30.0	//checkBallDist_second_good
 90.0	//checkBodyAngle
-110.0	112.0	//checkBodyAngle_good
+110.0	//checkBodyAngle_good
 1		//checkCount
 2		//checkCount_good
-27.0  	28.5	//checkFreeDist
-32.0 	33.3	//checkFreeDist_good
-0.0		91.0	//checkInterceptScore
-10.0 	97.0	//checkInterceptScore_good
-19.0 	21.2	//checkLastLineDist_chance
-23.0 	24.0	//checkLastLineDist_chance_good
-3.0 	4.00	//checkMarginDist
-5.0		7.50	//checkMarginDist_good
+27.0  	//checkFreeDist
+32.0 	//checkFreeDist_good
+0.0		93.0	//checkInterceptScore
+10.0 	99.0	//checkInterceptScore_good
+19.0 	18.0	//checkLastLineDist_chance
+23.0 	22.0	//checkLastLineDist_chance_good
+3.0 	//checkMarginDist
+5.0		//checkMarginDist_good
 82.0 	//checkMoveAngle
 100.0 	//checkMoveAngle_good
 15.0 	//checkOffsideLineDistX
@@ -36,29 +36,22 @@
 2.0 	//checkOffsideLineDistX_counter_good
 18.0 	//checkOffsideLineDistX_good
 40.0 	//checkPlayPointDist
-20.0 	22.0	//checkPlayPointDistX
-24.0 	26.0	//checkPlayPointDistX_good
-40.0 	41.0	//checkPlayPointDist_good
-100	87	//checkScore
-90	83	//checkScore_good
+20.0 	//checkPlayPointDistX
+24.0 	//checkPlayPointDistX_good
+40.0 	//checkPlayPointDist_good
+100		//checkScore
+90		//checkScore_good
 1		//checkSpaceRunCount
-1	2	//checkSpaceRunCount_good
-40.0	41.5	//checkZ
-13.0	15.0 	//checkZ_counter
-18.0	21.5	//checkZ_counter_good
-40.0	42.0	//checkZ_good
-20.0	22.0	//checkZ_second
-30.0	31.5	//checkZ_second_good
+1		//checkSpaceRunCount_good
+40.0	//checkZ
+13.0	//checkZ_counter
+18.0	//checkZ_counter_good
+40.0	//checkZ_good
+20.0	//checkZ_second
+30.0	//checkZ_second_good
 0.0 	//HEX 0x01010001, contains createPassCourse, defenceGap, inOut, roundTest
-4     5			//searchCount
-6     7		 	//searchCount_good
-25.0	//sectorDist0 //GONE IN 21
-25.0	//sectorDist0_good //GONE IN 21
-17.0	//sectorDist1 //GONE IN 21
-20.0	//sectorDist1_good //GONE IN 21
-10.0	//sectorDist2 //GONE IN 21
-15.0	//sectorDist2_good //GONE IN 21
-1		//shortConceptTest //GONE IN 21
+4 		//searchCount
+6     	//searchCount_good
 3		//supportTime
 2		//supportTime_good
 1		//vitalSupportPrior

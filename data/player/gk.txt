@@ -1,17 +1,17 @@
 64		//anime array
-0.8		1.20	//basePosRateClassicalGk
-1.2		1.70	//basePosRateOffensiveGk
-0		//checkFreeRangeGKLongThrow
+0.8		1.50	//basePosRateClassicalGk
+1.2		2.20	//basePosRateOffensiveGk
+0		0.50	//checkFreeRangeGKLongThrow
 9.0		//checkFreeRangeGKNormalThrow
 10.0 	//checkFreeRangeLowPantKick
-50.0 	40.0	//lowPantKickRangeMax
-30.0 	18.0	//lowPantKickRangeMin
-40.0 	36.0	//throwRangeLongMax
-35.0	30.0	//throwRangeLongMin
-30.0	27.0	//throwRangeNormalMax
-5.0		4.00	//throwRangeNormalMin
+50.0 	//lowPantKickRangeMax
+30.0 	//lowPantKickRangeMin
+40.0 	//throwRangeLongMax
+35.0	//throwRangeLongMin
+30.0	//throwRangeNormalMax
+5.0		//throwRangeNormalMin
 20.0	//waitTimeAddMax
-4.0		3.67	//waitTimeAddMin
+4.0		//waitTimeAddMin
 0		//padding
 0		//padding
 
@@ -19,16 +19,16 @@
 60.0	//blockFarAdjustAngleLimit
 30.0	//blockNearAdjustAngleLimit
 60.0	//catchAdjustAngleLimit
-0.5		//catchHandSideElapsedTime
+0.5		0.90	//catchHandSideElapsedTime
 70.0	//catchHoldBallSpeed
-20.0	//collapsingBallSpeed
-0.23	//collapsingElapsedTime
+20.0	10.0	//collapsingBallSpeed
+0.23	0.93	//collapsingElapsedTime
 45.0	//contactDeflectAngle
-0.5		//contactDeflectDist
+0.5		0.25	//contactDeflectDist
 0		//contactDeflectTest
 60.0	//deflectAdjustAngleLimit
 0		//physicalDeflectTest
 60.0	//punchAdjustAngleLimit
 60.0	//scoopOutFarAdjustAngleLimit
 30.0	//scoopOutNearAdjustAngleLimit
-15.0	//snapUnderAdjustAngleLimit
+15.0	4.00	//snapUnderAdjustAngleLimit

@@ -9,18 +9,18 @@
 
 //decideTiming -> pes15TestDecideTiming
 1	//enable
-0.8 	0.00	//maxSec
+0.8 	//maxSec
 0	//minSec
 0	//padding
 
 //decideTiming
-0.8		0.00	//moveSec
+0.8		//moveSec
 32	//pes15TestDecideTiming index
-0.3		0.00	//stopSec
+0.3		//stopSec
 0 1	//Highball Enable (apparently)
 
 //moveContact -> firstAttackEnd
-0	//enable
+0 1	//enable
 10	//paraDiff
 0	//padding
 0	//padding
@@ -33,7 +33,7 @@
 
 //moveContact -> pes15TestMoveContact -> dropOut
 1		//enable
-0.15	0.07	//minSec
+0.15	//minSec
 0		//padding
 0		//padding
 
@@ -60,9 +60,9 @@
 0	//padding
 
 //stamina
-0.5 	0.85	//effect
-0.8 	1.35	//max
-0.2 	0.50	//min
+0.5 	0.45	//effect
+0.8 	0.72	//max
+0.2 	0.15	//min
 0	//padding
 
 //stopContact
@@ -70,3 +70,5 @@
 1		//myGoalAngleEnable
 0		//padding
 0		//padding
+
+//this will hopefully speed up the animations a bit, 21 is slow
