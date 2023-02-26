@@ -1,6 +1,6 @@
-15.0	30.0	//rangeAngleGoalFront
-50.0	69.0	//rangeAngleMax
-5.00	6.90	//rangeDistForce
+15.0	22.0	//rangeAngleGoalFront
+50.0	60.0	//rangeAngleMax
+5.00	6.70	//rangeDistForce
 12.0	14.0	//rangeDistHedding
 20.0	22.0	//rangeDistMiddle
 12.0	14.0	//rangeDistShort

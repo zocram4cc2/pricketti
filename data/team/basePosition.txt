@@ -154,9 +154,9 @@ nan		//freekickAttackForce2
 10.0 	//mfLineScore_adjustMax
 35.0 	//mfPushUpRate
 65.0 	//mfPushUpRate_offencive
-9.0 	//minDistMF_DF (8 in 17)
-6.0 	//minDistMF_DF_stratagy_defensive
-1.5 	//minDistMF_FW
+9.0 	9.2		//minDistMF_DF (8 in 17)
+6.0 	5.7		//minDistMF_DF_stratagy_defensive
+1.5 	1.45	//minDistMF_FW
 9.0 	//minWidth (8 in 17)
 2.0		//minWidth_GoalKick
 7.0 	//minWidth_stratagy_defensive

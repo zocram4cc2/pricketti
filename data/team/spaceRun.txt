@@ -26,7 +26,7 @@
 0.0		93.0	//checkInterceptScore
 10.0 	99.0	//checkInterceptScore_good
 19.0 	18.0	//checkLastLineDist_chance
-23.0 	22.0	//checkLastLineDist_chance_good
+23.0 	23.6	//checkLastLineDist_chance_good
 3.0 	//checkMarginDist
 5.0		//checkMarginDist_good
 82.0 	//checkMoveAngle

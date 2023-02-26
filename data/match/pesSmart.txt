@@ -112,13 +112,13 @@
 0	//padding
 
 //gk -> catchable// 
-85.0 	78.0	//catchableSpeedDefaultMax	
-70.0 	60.0	//catchableSpeedDefaultMin  
-60.0 	50.0	//catchableSpeedMin  
+85.0 	80.0	//catchableSpeedDefaultMax	
+70.0 	62.0	//catchableSpeedDefaultMin  
+60.0 	52.0	//catchableSpeedMin  
 0		//custom 
-1.1		0.85	//frontAdjustRate  
-110.0 	90.0	//punchableSpeedMax 
-80.0 	78.0	//punchableSpeedMin 
+1.1		0.86	//frontAdjustRate  
+110.0 	93.0	//punchableSpeedMax 
+80.0 	//punchableSpeedMin 
 20.0	15.0	//tooNearDist  
 
 //gk -> gkPress//
